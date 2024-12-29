@@ -1,3 +1,4 @@
+# QUIZZY BRANIACS
 Project Description:
 The Quiz Application is a web-based project designed to test users' knowledge of data science and big data analytics. It presents a series of 10 multiple-choice questions (MCQs), each worth 1 mark. At the end of the quiz, the application provides a detailed result showing the number of correct and incorrect answers.
 
